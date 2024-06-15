@@ -44,7 +44,7 @@ Cybersecurity
 - Website: Coming Soon
 - LinkedIn: Coming Soon
 - Twitter: Coming Soon
-- GitHub: [Your GitHub Profile]
+- GitHub: Coming Soon
 - Discord: https://discord.gg/duyMgnGv
 - Facebook Page: https://www.facebook.com/profile.php?id=61557577907699
 - Whatsapp Channel: Coming Soon
