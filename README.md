@@ -44,7 +44,7 @@ Cybersecurity
 - Website: Coming Soon
 - LinkedIn: Coming Soon
 - Twitter: Coming Soon
-- GitHub: Coming Soon
+- GitHub: https://github.com/TransformShieldTech
 - Discord: https://discord.gg/duyMgnGv
 - Facebook Page: https://www.facebook.com/profile.php?id=61557577907699
 - Whatsapp Channel: Coming Soon
