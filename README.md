@@ -48,6 +48,7 @@ Cybersecurity
 - Discord: https://discord.gg/duyMgnGv
 - Facebook Page: https://www.facebook.com/profile.php?id=61557577907699
 - Whatsapp Channel: Coming Soon
+- YouTube Channel: https://www.youtube.com/@TransformShieldTech
 
 Feel free to reach out if you want to collaborate on a project, discuss tech trends, or just say hi! I'm always excited to connect with fellow tech enthusiasts and 
 professionals.
