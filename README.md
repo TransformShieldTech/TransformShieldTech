@@ -1,22 +1,12 @@
 Hi there, I'm Shayan Ahmed! 👋
 
-Welcome to my profile! I'm a passionate and i have experience in HTML, CSS, Java, JavaScript, Python, Swift, Ruby, Rust, NodeJs, ReactJs, MongoDB, MySQL, C/C++, C#, PHP & Groovy.
-Here's a bit more about me:
+Welcome to my profile! Iam 21 years old Developer/Programmer. I'm a passionate and i have experience in HTML, CSS, Java, JavaScript, Python, Swift, Ruby, Rust, NodeJs, ReactJs, MongoDB, MySQL, C/C++, C#, PHP & Groovy.
 
 🌟 About Me
 
 I'm a front-end and Back-end developer with a keen eye for design and a strong focus on creating intuitive user experiences. In addition to my development skills,
 I have a deep interest in cybersecurity, ensuring that the applications I build are not only beautiful but also secure. When I'm not coding or designing,
 you'll find me exploring the latest trends in technology and science.
-
-💻 What I Do
-
-Code Editor i use:
-Visual Studio Code
-Brackets
-Sublime Text
-NetBeans IDE
-Android Studio
 
 UI/UX Design
 - Design Tools: Adobe XD, Figma, Sketch
@@ -36,20 +26,6 @@ Cybersecurity
 - Exploring the latest advancements in AI and machine learning.
 - Attending tech meetups and conferences to stay up-to-date with industry trends.
 - Participating in open-source projects to give back to the community.
-
-⚡ Fun Facts
-- I love tinkering with gadgets and IoT devices.
-- Avid reader of science fiction and technology books.
-- Enjoy hiking and nature photography during my free time.
-
-📫 Let's Connect
-- Website: ScamShieldTech.blogspot.com
-- LinkedIn: Coming Soon
-- Twitter: Coming Soon
-- GitHub: 
-- Facebook Page: 
-- Whatsapp Channel: 
-- YouTube Channel: 
 
 Feel free to reach out if you want to collaborate on a project, discuss tech trends, or just say hi! I'm always excited to connect with fellow tech enthusiasts and 
 professionals.
